@@ -60,9 +60,9 @@ The plugin itself is released under the GNU General Public License;
 
 = Where is the plugin in the admin menu? =
 
-Is in MENU SETTINGS-> LIBRO DE VISITAS
-AND ALSO IN
-the MENU PLUGINS->LIBRO DE VISITAS(where you see all plugins)->SETTINGS (a small menu under the name of the plugin, just beside Activate and Deactivate).
+Is in MENU SETTINGS-> LIBRO DE VISITAS<br>
+and also in<br>
+MENU PLUGINS->LIBRO DE VISITAS(where you see all plugins)->SETTINGS<br> (a small menu under the name of the plugin, just beside Activate and Deactivate).
 
 == Screenshots ==
 
