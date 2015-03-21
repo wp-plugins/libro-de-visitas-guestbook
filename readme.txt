@@ -1,12 +1,10 @@
 === LIBRO DE VISITAS - GUESTBOOK ===
-Contributors: Jarim
+Contributors: jarim
 Tags: libro de visitas, visitas, guestbook, guest book, comments, feedback, antispam, review
 Requires at least: ?
 Tested up to: 4.1
 Stable tag: 1.0
 License: GPLv2
-Example live: http://www.jarimos.dk/websjarim/libro-de-visitas/libro-de-visitas
-Author web: http://www.jarimos.dk
 LIBRO DE VISITAS- GUESTBOOK is the WordPress  guestbook you've just been looking for. Beautiful, responsive,easy and multi-language.
 
 
@@ -14,6 +12,7 @@ LIBRO DE VISITAS- GUESTBOOK is the WordPress  guestbook you've just been looking
 
 LIBRO DE VISITAS- GUESTBOOK is the WordPress guestbook you've just been looking for. Beautiful, responsive,easy and multi-language.
 Creates its own table for messages so you can easily control all your messages.
+<a href="http://www.jarimos.dk/websjarim/libro-de-visitas/libro-de-visitas" >For live example click here!!!</a>
 
 
 Current features include:
@@ -62,7 +61,7 @@ The plugin itself is released under the GNU General Public License;
 = Where is the plugin in the admin menu? =
 
 Is in MENU SETTINGS-> LIBRO DE VISITAS
-OR IN
+AND ALSO IN
 the MENU PLUGINS->LIBRO DE VISITAS(where you see all plugins)->SETTINGS (a small menu under the name of the plugin, just beside Activate and Deactivate).
 
 == Screenshots ==
