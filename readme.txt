@@ -3,7 +3,7 @@ Contributors: jarim
 Tags: libro de visitas, visitas, guestbook, guest book, comments, feedback, antispam, review
 Requires at least: ?
 Tested up to: 4.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2
 LIBRO DE VISITAS- GUESTBOOK is the WordPress  guestbook you've just been looking for. Beautiful, responsive,easy and multi-language.
 
