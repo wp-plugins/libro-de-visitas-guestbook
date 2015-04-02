@@ -249,7 +249,7 @@ class Class_Install_LdvJarim
 	
                 </table>
                 <p class="submit">
-                    <input type="submit" class="button-primary" value="<?php _e('Save Changes') ?>" />
+                    <input type="submit" class="" value="<?php _e('Save Changes') ?>" />
                 </p>
             </form>
         </div>
