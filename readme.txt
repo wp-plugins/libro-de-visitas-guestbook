@@ -75,6 +75,11 @@ MENU PLUGINS->LIBRO DE VISITAS(where you see all plugins)->SETTINGS<br> (a small
 
 == Changelog ==
 
+= 1.2 =
+* 2015-04-09
+* Release stable and updated version 1.2 to the public.
+* Go on holiday, have a few beers, and watch the girls do the hoolahoop().
+
 = 1.1 =
 * 2015-04-09
 * Release stable and updated version 1.1 to the public.
@@ -87,6 +92,8 @@ MENU PLUGINS->LIBRO DE VISITAS(where you see all plugins)->SETTINGS<br> (a small
 
 == Upgrade Notice ==
 
+= 1.2 =
+This version is better.  Recommended Upgrade :).
 
 = 1.1 =
-This version us better.  Recommended Upgrade :).
+This version is better.  Recommended Upgrade :).
