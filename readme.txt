@@ -11,6 +11,7 @@ LIBRO DE VISITAS- GUESTBOOK is the WordPress  guestbook you've just been looking
 
 == Description ==
 <a href="http://www.jarimos.dk/websjarim/libro-de-visitas/libro-de-visitas" >For live example click here!!!</a><br>
+<a href="http://www.sos-childrensvillages.org/" >Donate and help children her!!!</a><br>
 LIBRO DE VISITAS- GUESTBOOK is the WordPress guestbook you've just been looking for. Beautiful, responsive,easy and multi-language.
 Creates its own table for messages so you can easily control all your messages.
 
