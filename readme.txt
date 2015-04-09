@@ -1,5 +1,6 @@
 === LIBRO DE VISITAS - GUESTBOOK ===
 Contributors: jarim
+Donate link: http://www.sos-childrensvillages.org/
 Tags: libro de visitas, visitas, guestbook, guest book, comments, feedback, antispam, review
 Requires at least: ?
 Tested up to: 4.1
@@ -70,9 +71,21 @@ MENU PLUGINS->LIBRO DE VISITAS(where you see all plugins)->SETTINGS<br> (a small
 4. Settings panel, showing the labels you can change.
 
 
+
 == Changelog ==
 
+= 1.1 =
+* 2015-04-09
+* Release stable and updated version 1.1 to the public.
+* Go on holiday, have a few beers, and watch the girls do the hoolahoop().
+
 = 1.0 =
-* 2014-11-28
+* 2015-04-01
 * Release stable and updated version 1.0 to the public.
 * Go on holiday, have a few beers, and watch the girls do the hoolahoop().
+
+== Upgrade Notice ==
+
+
+= 1.1 =
+This version us better.  Recommended Upgrade :).
