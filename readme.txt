@@ -4,14 +4,14 @@ Donate link: http://www.sos-childrensvillages.org/
 Tags: libro de visitas, visitas, guestbook, guest book, comments, feedback, antispam, review
 Requires at least: ?
 Tested up to: 4.1
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2
 LIBRO DE VISITAS- GUESTBOOK is the WordPress  guestbook you've just been looking for. Beautiful, responsive,easy and multi-language.
 
 
 == Description ==
-<a href="http://www.jarimos.dk/websjarim/libro-de-visitas/libro-de-visitas" >For live example click here!!!</a><br>
-<a href="http://www.sos-childrensvillages.org/" >Donate and help children her!!!</a><br>
+<a href="http://www.jarimos.dk/websjarim/libro-de-visitas/libro-de-visitas" >For live example click here!!!</a><br><br>
+<a href="http://www.sos-childrensvillages.org/" >Donate and help children her!!!</a><br><br>
 LIBRO DE VISITAS- GUESTBOOK is the WordPress guestbook you've just been looking for. Beautiful, responsive,easy and multi-language.
 Creates its own table for messages so you can easily control all your messages.
 
