@@ -4,7 +4,7 @@ Plugin Name: libro de visitas - guest book
 Plugin URI: http://www.jarimos.dk/websjarim/libro-de-visitas/
 Description: LIBRO DE VISITAS- GUESTBOOK is the WordPress  guestbook you've just been looking for. Beautiful, responsive,easy and multi-language.
 Author: Jarim
-Version: 1.1
+Version: 1.2
 Author URI: http://www.jarimos.dk
 License: GPLv2
 */
